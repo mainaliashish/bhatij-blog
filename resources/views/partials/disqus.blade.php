@@ -1,0 +1,1 @@
+<div class="fb-comments" data-href="https://vatiz.test/" data-width="" data-numposts="10"></div>
